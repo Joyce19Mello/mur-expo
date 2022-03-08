@@ -3,16 +3,16 @@
     padding: 20px;
     width: 111%;
   }
+  #header,
   #about,
-  #sponsor,
   #testimonials,
-  #team,
-  #contact,
-  #footer {
+  #registrations,
+  #sponsor,
+  #contact {
     width: 111%;
   }
 
-  #portfolio {
+  #pictures {
     width: 110%;
   }
 }
