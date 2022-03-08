@@ -22,48 +22,48 @@
     "Gallery": [
         {
             "title": "Project Title",
-            "largeImage": "img/portfolio/01-large.jpg",
-            "smallImage": "img/portfolio/01-small.jpg"
+            "largeImage": "img/mur-fotos/01-large.jpg",
+            "smallImage": "img/mur-fotos/01-small.jpg"
         },
         {
             "title": "Project Title",
-            "largeImage": "img/portfolio/02-large.jpg",
-            "smallImage": "img/portfolio/02-small.jpg"
+            "largeImage": "img/mur-fotos/02-large.jpg",
+            "smallImage": "img/mur-fotos/02-small.jpg"
         },
         {
             "title": "Project Title",
-            "largeImage": "img/portfolio/03-large.jpg",
-            "smallImage": "img/portfolio/03-small.jpg"
+            "largeImage": "img/mur-fotos/03-large.jpg",
+            "smallImage": "img/mur-fotos/03-small.jpg"
         },
         {
             "title": "Project Title",
-            "largeImage": "img/portfolio/04-large.jpg",
-            "smallImage": "img/portfolio/04-small.jpg"
+            "largeImage": "img/mur-fotos/04-large.jpg",
+            "smallImage": "img/mur-fotos/04-small.jpg"
         },
         {
             "title": "Project Title",
-            "largeImage": "img/portfolio/05-large.jpg",
-            "smallImage": "img/portfolio/05-small.jpg"
+            "largeImage": "img/mur-fotos/05-large.jpg",
+            "smallImage": "img/mur-fotos/05-small.jpg"
         },
         {
             "title": "Project Title",
-            "largeImage": "img/portfolio/06-large.jpg",
-            "smallImage": "img/portfolio/06-small.jpg"
+            "largeImage": "img/mur-fotos/06-large.jpg",
+            "smallImage": "img/mur-fotos/06-small.jpg"
         },
         {
             "title": "Project Title",
-            "largeImage": "img/portfolio/07-large.jpg",
-            "smallImage": "img/portfolio/07-small.jpg"
+            "largeImage": "img/mur-fotos/07-large.jpg",
+            "smallImage": "img/mur-fotos/07-small.jpg"
         },
         {
             "title": "Project Title",
-            "largeImage": "img/portfolio/08-large.jpg",
-            "smallImage": "img/portfolio/08-small.jpg"
+            "largeImage": "img/mur-fotos/08-large.jpg",
+            "smallImage": "img/mur-fotos/08-small.jpg"
         },
         {
             "title": "Project Title",
-            "largeImage": "img/portfolio/09-large.jpg",
-            "smallImage": "img/portfolio/09-small.jpg"
+            "largeImage": "img/mur-fotos/09-large.jpg",
+            "smallImage": "img/mur-fotos/09-small.jpg"
         }
     ],
     "sponsor": [
@@ -131,12 +131,11 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "address": "LAVRAS MG",
+        "phone": "35 9 9838-6916",
+        "email": "murlavras@gmail.com",
+        "facebook": "https://www.facebook.com/murlavras/" ,
+        "instagram": "https://www.instagram.com/murlavras/?hl=en"
     },
     "Features": {
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
