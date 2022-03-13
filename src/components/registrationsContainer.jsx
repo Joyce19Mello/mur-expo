@@ -9,6 +9,7 @@ export const RegistrationsContainer = ({ registrations }) => (
     <h3>{registrations.name}</h3>
 
     <p className="registrations__description">{registrations.description}</p>
+    <h3>{registrations.value}</h3>
     <p className="registrations__description">{registrations.stack}</p>
 
     {registrations.money && (

@@ -32,7 +32,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#testimonials' className='page-scroll'>
-                Testemunhos
+                O que falam sobre a EXPO
               </a>
             </li>
             <li>
@@ -45,15 +45,18 @@ export const Navigation = (props) => {
                 Patrocinadores
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href='#pictures' className='page-scroll'>
                 Fotos
               </a>
-            </li>
+            </li> */}
             <li>
               <a href='#contact' className='page-scroll'>
                 Contato
               </a>
+            </li>
+            <li>
+              {/* <button className="btn btn-custom btn-lg" onClick={() => window.open(formRegistration.url)} >Realizar inscrição</button> */}
             </li>
           </ul>
         </div>

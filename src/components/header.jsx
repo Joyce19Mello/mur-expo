@@ -1,6 +1,6 @@
 
 const formRegistration = {
-    url:"https://docs.google.com/forms/d/e/1FAIpQLScFNOPa1X8KK_tTnRaKn0x6lgeiAIdru6hnsReIGMEOQEkILQ/viewform"
+    url:"https://forms.gle/LMpTbnvp9ohEzeAeA"
 }
 
 export const Header = (props) => {
@@ -16,6 +16,7 @@ export const Header = (props) => {
                   <span></span>
                 </h1>
                 <p className="paragraph">{props.data ? props.data.paragraph : 'Loading'}</p>
+                <p className="valueExpo">{props.data ? props.data.valueExpo40 : 'Loading'}</p>
                 <p>{props.data ? props.data.subParagraph : 'Loading'}</p>
                 <button
                   href='#registrations'

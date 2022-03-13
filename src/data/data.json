@@ -1,11 +1,12 @@
 {
     "Header": {
         "title": "O MELHOR FIM DE SEMANA DA SUA VIDA",
-        "paragraph": "Experiência de oração para Universitários e Profissionais!",
-        "subParagraph": "Evento realizado nos dias 01 - 02 - 03 de Abril 2022"
+        "paragraph": "Se arrisque e venha conosco!",
+        "subParagraph": "Evento realizado nos dias 01 - 02 - 03 de Abril 2022",
+        "valueExpo40": "Valor da inscrição: R$ 50,00"
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "O Ministério Universidades Renovadas (MUR) é parte da Renovação Carismática Católica (RCC) e tem a sua atuação através dos Grupos de Oração Universitário (GOUs) e Grupos de Partilha de Profissionais (GPPs). Somos acadêmicos, professores, servidores e profissionais de inúmeras Instituições de Ensino Superior que respondem, de maneira renovada, aos crescentes desafios propostos pela Igreja como a Evangelização do âmbito universitário. O nosso tema é “um sonho de amor para o mundo”. Em Lavras, temos quatro GOUs, que buscam levar a palavra de Deus para os universitários da UFLA e UNILAVRAS e um GPP, que é voltado a profissionais da nossa cidade.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",
@@ -68,66 +69,51 @@
     ],
     "sponsor": [
         {
-            "img": "img/sponsor/frade.jpeg",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "img": "img/sponsor/patrocinador1.png",
+            "name": "Pleno Saboor",
+            "text": "Encomendas de doces e bolos para a sua festa."
         },
         {
-            "img": "img/sponsor/frade.jpeg",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "img": "img/sponsor/patrocinador2.png",
+            "name": "Consultoria Ambiental",
+            "text": "Focada em fornecer aos seus clientes soluções baseadas nos três pilares da sustentabilidade: ecologicamente correto, economicamente viável e socialmente justo"
         },
         {
-            "img": "img/sponsor/frade.jpeg",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "img": "img/sponsor/frade.jpeg",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "img": "img/sponsor/frade.jpeg",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-        },
-        {
-            "img": "img/sponsor/frade.jpeg",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "img": "img/sponsor/patrocinador3.png",
+            "name": "Cheia de graça",
+            "text": "Loja de artigos religiosos que estará presente na 40ª EXPO"
         }
     ],
     "Testimonials": [
         {
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "img/testimonials/testemunho1.png",
+            "text": "EXPO, simplesmente os melhores dias de minha vida. Foi lá onde tive o meu encontro pessoal com Jesus que me curou, me amou e chamou. Valeu muito a pena!",
+            "name": "Uriel Guedes "
         },
         {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "img/testimonials/testemunho2.png",
+            "text": "O que vivi na EXPO é impossível de descrever em palavras. Foram momentos profundos de reencontro comigo mesma e com Deus.",
+            "name": "Yara Marques"
         },
         {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "img/testimonials/testemunho3.png",
+            "text": "Um final de semana que transformou toda a minha história. Hoje sou feliz e grata por ter dado 3 dias da minha vida e ter ganhado muitos outros com Deus",
+            "name": "Joyce Melo"
         },
         {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "img/testimonials/testemunho4.png",
+            "text": "Tive a graça de fazer a 36° Expo onde vivi uma experiência que jamais tinha vivido antes. Essa experiência realmente muda vidas! Mudou a minha para sempre!",
+            "name": "Uriel Guedes "
         },
         {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "img/testimonials/testemunho5.png",
+            "text": "A EXPO pra mim foi literalmente um divisor de águas, o melhor fim de semana da minha vida, onde tive verdadeiramente uma experiência com Deus!",
+            "name": "Ana Beatriz"
         },
         {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "img/testimonials/testemunho6.png",
+            "text": "Já participei da EXPO três vezes e em todas tive a certeza que se todo mundo a fizesse o mundo seria um lugar muito melhor. Inscreva-se já irmão, Deus abençoe.",
+            "name": "Eduardo Novais"
         }
     ],
     "Contact": {
@@ -135,35 +121,43 @@
         "phone": "35 9 9838-6916",
         "email": "murlavras@gmail.com",
         "facebook": "https://www.facebook.com/murlavras/" ,
-        "instagram": "https://www.instagram.com/murlavras/?hl=en"
+        "instagram": "https://www.instagram.com/murlavras/?hl=en",
+        "whats": "https://api.whatsapp.com/send?phone=55553798609739&text=Bem%20vindo%20ao%20Minist%C3%A9rio%20Universidades%20Renovadas%2C%20"
     },
-    "Features": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "AboutExpo": {
+        "paragraph": "Diante de tantas tristezas, depressão, ansiedade, dores e tantos problemas que vivemos na atualidade, em especial os que assolam o meio acadêmico e profissional, a EXPO vem como uma resposta a todas essas questões, a fim de lembrar as pessoas de suas verdadeiras essências e do amor de seu criador. A EXPO é um evento na qual o participante é convidado a se retirar de sua rotina, desligar do mundo em um final de semana para viver uma intensa experiência com o amor de Deus. Nosso principal objetivo é promover um encontro profundo e pessoal de cada pessoa com o Cristo vivo.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Amizades ",
+            "Alegria",
+            "Oração",
+            "Música "
+        ],
+        "Why2": [
+            "Animação",
+            "Teatros",
+            "Comida gostosa",
+            "Várias surpresas"
         ]
     },
     "Infos": [
         {
             "name": "VALOR",
-            "description": "Atualmente trabalho com Banco Next em uma plataforma de geração de massas para facilitar os testes dos QAs",
+            "description": "Para um final de semana incrível com muita comida boa, muita oração e claro muita risada com um valor simbólico de: ",
+            "value": "R$ 50,00",
             "stack": "Clique abaixo para ir para o forms de inscrição",
-            "money": "https://www.linkedin.com/company/ciandt/mycompany/"
+            "money": "https://forms.gle/LMpTbnvp9ohEzeAeA"
         },
         {
             "name": "LOCAL",
-            "description": "Atuei em projetos como Cadastro Ambiental Rural, Carteira de Pesca, Fiscalização ambiental entre outros ",
+            "description": "Super aconchegante com vários dormitórios e um espaço amplo para reflexões pessoais localizado em PERDÕES-MG",
             "stack": "Clique abaixo para conhecer o Centro Pastoral de Perdões",
             "place": "https://goo.gl/maps/Mt4S1sHhomUrBA4UA"
         },
         {
             "name": "REALIZAR INSCRIAÇÃO",
-            "description": "Atuei em projetos como Cadastro Ambiental Rural, Carteira de Pesca, Fiscalização ambiental entre outros",
+            "description": "Se você chegou até aqui é porque já fez a inscrição né? Maaaas caso ainda não tenho feito estou lhe dando mais uma chance de fazê-la, clique abaixo:",
             "stack": "Clique abaixo para ir para o forms de inscrição",
-            "send": "https://docs.google.com/forms/d/e/1FAIpQLScFNOPa1X8KK_tTnRaKn0x6lgeiAIdru6hnsReIGMEOQEkILQ/viewform"
+            "send": "https://forms.gle/LMpTbnvp9ohEzeAeA"
         }
     ]
 }

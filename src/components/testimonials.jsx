@@ -3,7 +3,7 @@ export const Testimonials = (props) => {
     <div id='testimonials'>
       <div className='container'>
         <div className='section-title text-center'>
-          <h2>Testemunhos de exs participantes</h2>
+          <h2>O que os exs participantes falam sobre a EXPO</h2>
         </div>
         <div className='row'>
           {props.data

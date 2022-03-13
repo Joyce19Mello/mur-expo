@@ -5,8 +5,7 @@ export const Sponsor = (props) => {
         <div className='section-title'>
           <h2>Patrocinadores</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Empresas que acreditam e sonham com a gente.
           </p>
         </div>
         <div className='row'>
@@ -14,11 +13,7 @@ export const Sponsor = (props) => {
             ? props.data.map((d, i) => (
                 <div key={`${d.name}-${i}`} className='col-md-4'>
                   {' '}
-                   <img class="picture" src={d.img} />
-                  {/* <div className='testimonial-image'>
-                      {' '}
-                      <img src={d.img} alt='' />{' '}
-                      </div> */}
+                   <img className="picture" src={d.img} />
                   <div className='service-desc'>
                     <h3>{d.name}</h3>
                     <p>{d.text}</p>
