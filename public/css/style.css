@@ -709,9 +709,17 @@ label {
 
 .link {
     color: #5ca9fb;
-
 }
 
 .link:hover {
     color: #6372ff;
+}
+
+.link-patrocinadores {
+    color: #fff;
+    font-size: 11px;
+}
+
+.link-patrocinadores:hover {
+    color: #fff;
 }

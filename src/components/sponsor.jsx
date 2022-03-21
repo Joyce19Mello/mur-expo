@@ -1,3 +1,5 @@
+import { Instagram, LinkOutlined } from "@material-ui/icons"
+
 export const Sponsor = (props) => {
   return (
     <div id='sponsor' className='text-center'>
@@ -15,8 +17,17 @@ export const Sponsor = (props) => {
                   {' '}
                    <img className="picture" src={d.img} />
                   <div className='service-desc'>
-                    <h3>{d.name}</h3>
+                    {/* <h3>{d.name}</h3> */}
                     {/* <p>{d.text}</p> */}
+                    <a
+                        target="_blank"
+                        href={d.text}
+                        aria-label="source code"
+                        className="link link-patrocinadores"
+                        rel="noreferrer"
+                    >
+                        <Instagram />
+                    </a>
                   </div>
                 </div>
               ))
