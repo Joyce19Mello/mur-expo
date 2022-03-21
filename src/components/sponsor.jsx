@@ -16,7 +16,7 @@ export const Sponsor = (props) => {
                    <img className="picture" src={d.img} />
                   <div className='service-desc'>
                     <h3>{d.name}</h3>
-                    <p>{d.text}</p>
+                    {/* <p>{d.text}</p> */}
                   </div>
                 </div>
               ))
