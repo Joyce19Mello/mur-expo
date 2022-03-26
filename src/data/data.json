@@ -3,7 +3,7 @@
         "title": "O MELHOR FIM DE SEMANA DA SUA VIDA",
         "paragraph": "Se arrisque e venha conosco!",
         "subParagraph": "Evento realizado nos dias 01 - 02 - 03 de Abril 2022",
-        "valueExpo40": "Valor da inscrição: R$ 50,00"
+        "valueExpo40": "Valor da inscrição: R$ 50,00 (TRANSPORTE INCLUSO)"
     },
     "About": {
         "paragraph": "O Ministério Universidades Renovadas (MUR) é parte da Renovação Carismática Católica (RCC) e tem a sua atuação através dos Grupos de Oração Universitário (GOUs) e Grupos de Partilha de Profissionais (GPPs). Somos acadêmicos, professores, servidores e profissionais de inúmeras Instituições de Ensino Superior que respondem, de maneira renovada, aos crescentes desafios propostos pela Igreja como a Evangelização do âmbito universitário. O nosso tema é “um sonho de amor para o mundo”. Em Lavras, temos quatro GOUs, que buscam levar a palavra de Deus para os universitários da UFLA e UNILAVRAS e um GPP, que é voltado a profissionais da nossa cidade.",
@@ -130,6 +130,11 @@
         },
         {
             "img": "img/sponsor/patrocinador13.png",
+            "name": "Objetiva Contabilidade Digital",
+            "text": "https://www.instagram.com/objetiva.contabilidadedigital/"
+        },
+        {
+            "img": "img/sponsor/patrocinador14.png",
             "name": "Objetiva Contabilidade Digital",
             "text": "https://www.instagram.com/objetiva.contabilidadedigital/"
         }
